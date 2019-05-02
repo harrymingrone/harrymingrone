@@ -1,2 +1,2 @@
-# harrymingrone
+# finalproject
 ceramics personal website
